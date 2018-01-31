@@ -13,6 +13,6 @@ public class DataPackageUtils {
 	
 	public static String getClassPath(){
 		
-		return null;
+		return "jack--Test";
 	}
 }
