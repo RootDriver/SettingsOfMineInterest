@@ -1,0 +1,16 @@
+Formula:
+	
+	// f(x) = a * ln( b * x + c )
+	
+describe:
+	  a   :   the natural beings of growth rate
+	  b   :   the inteligent of growth rate
+	  c   :   the primary bring 
+	  
+	  Initvalue: a * ln( c )
+	  
+	  
+This equation describe the natural growth of things which we normally attached.
+
+The factor also has : when x > 10 * a , the result growth slowly to slowly very obviously.
+			10 * a this value can calculate by f(x)'s growth rate lower than 0.1
