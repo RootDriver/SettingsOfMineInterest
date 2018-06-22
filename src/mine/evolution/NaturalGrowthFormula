@@ -12,5 +12,5 @@ describe:
 	  
 This equation describe the natural growth of things which we normally attached.
 
-The factor also has : when x > 10 * a , the result growth slowly to slowly very obviously.
+The factor also has : when b * x + c > 10 * a , the result growth slowly to slowly very obviously.
 			10 * a this value can calculate by f(x)'s growth rate lower than 0.1
